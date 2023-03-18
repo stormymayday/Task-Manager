@@ -372,3 +372,10 @@ Tasks
 .task-completed .fa-check-circle {
     visibility: visible;
 }
+
+/* Task Buttons */
+.task-links {
+    display: flex;
+    align-items: center;
+    gap: 0 0.5rem;
+}
