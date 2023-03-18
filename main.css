@@ -356,3 +356,11 @@ Tasks
 .single-task h5 {
     margin-bottom: 0;
 }
+
+.single-task .fa-check-circle {
+    margin-left: -1.25rem;
+    margin-right: 1.5rem;
+    font-size: 1rem;
+    color: var(--green-dark);
+    visibility: hidden;
+}
