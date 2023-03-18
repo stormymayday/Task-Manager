@@ -348,3 +348,7 @@ Tasks
     align-items: center;
     justify-content: space-between;
 }
+
+.single-task:hover {
+    box-shadow: var(--shadow-4);
+}
