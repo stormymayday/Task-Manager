@@ -318,3 +318,17 @@ Task Manager
 .text-success {
     color: var(--green-dark);
 }
+
+/*
+=============== 
+Tasks
+===============
+*/
+
+.tasks-container {
+    width: 90vw;
+    max-width: var(--fixed-width);
+    margin: 0 auto;
+    margin-top: 2rem;
+    padding-bottom: 4rem;
+}
