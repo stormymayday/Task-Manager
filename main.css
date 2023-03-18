@@ -436,3 +436,8 @@ Single Task Page
     margin-top: 6rem;
     background-color: var(--black);
 }
+
+.back-link:hover {
+    background-color: var(--black);
+    opacity: 0.75;
+}
