@@ -409,3 +409,8 @@ Single Task Page
 .single-task-form h4 {
     text-align: center;
 }
+
+.single-task-form p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
