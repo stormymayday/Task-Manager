@@ -387,3 +387,7 @@ Tasks
     font-size: 0.75rem;
     cursor: pointer;
 }
+
+.edit-link {
+    color: var(--green-dark);
+}
