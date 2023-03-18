@@ -379,3 +379,11 @@ Tasks
     align-items: center;
     gap: 0 0.5rem;
 }
+
+.delete-btn,
+.edit-link {
+    background-color: transparent;
+    border-color: transparent;
+    font-size: 0.75rem;
+    cursor: pointer;
+}
