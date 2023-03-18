@@ -332,3 +332,8 @@ Tasks
     margin-top: 2rem;
     padding-bottom: 4rem;
 }
+
+.tasks {
+    display: grid;
+    gap: 1rem;
+}
