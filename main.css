@@ -314,3 +314,7 @@ Task Manager
     }
 
 }
+
+.text-success {
+    color: var(--green-dark);
+}
