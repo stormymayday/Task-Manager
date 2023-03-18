@@ -445,3 +445,8 @@ Single Task Page
 .task-edit-completed {
     justify-self: flex-start;
 }
+
+.single-task-form .form-alert {
+    text-align: center;
+    margin-top: 1rem;
+}
