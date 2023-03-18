@@ -364,3 +364,7 @@ Tasks
     color: var(--green-dark);
     visibility: hidden;
 }
+
+.task-completed h5 {
+    text-decoration: line-through;
+}
