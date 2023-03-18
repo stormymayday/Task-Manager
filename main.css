@@ -405,3 +405,7 @@ Single Task Page
 .single-task-form {
     margin-top: 6rem;
 }
+
+.single-task-form h4 {
+    text-align: center;
+}
