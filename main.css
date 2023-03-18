@@ -414,3 +414,11 @@ Single Task Page
     margin-top: 0;
     margin-bottom: 0;
 }
+
+.single-task-form .form-control {
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    align-items: center;
+    gap: 0 1rem;
+    margin-bottom: 0.75rem;
+}
