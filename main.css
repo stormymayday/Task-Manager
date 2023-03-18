@@ -285,3 +285,7 @@ Task Manager
 .task-form {
     margin-top: 6rem;
 }
+
+.task-form h4 {
+    text-align: center;
+}
