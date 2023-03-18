@@ -395,3 +395,13 @@ Tasks
 .delete-btn {
     color: var(--red-dark);
 }
+
+/*
+=============== 
+Single Task Page
+===============
+*/
+
+.single-task-form {
+    margin-top: 6rem;
+}
