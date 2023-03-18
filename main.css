@@ -368,3 +368,7 @@ Tasks
 .task-completed h5 {
     text-decoration: line-through;
 }
+
+.task-completed .fa-check-circle {
+    visibility: visible;
+}
